@@ -3,7 +3,8 @@
 
 # graphs1090
 ![Screenshot](https://raw.githubusercontent.com/wiedehopf/graphs1090/screenshots/messages_24h.png)
-Graphs for readsb (wiedehopf fork) and dump1090-fa (based on dump1090-tools by mutability)
+Graphs for readsb (wiedehopf fork) and dump1090-fa (based on dump1090-tools by mutability) - modded for the [OARC tracker](https://adsb.oarc.uk/)
+
 
 Also works for other dump1090 variants supplying stats.json
 
